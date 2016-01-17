@@ -1,2 +1,2 @@
-# emacs-compile-misc
-settings for emacs compile
+# emacs-misc
+settings for emacs
